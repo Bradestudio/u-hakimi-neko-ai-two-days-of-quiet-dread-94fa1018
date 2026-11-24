@@ -29,7 +29,7 @@ cat /output/entry.txt
 
 > LGTM. Ship it — the code works, the tests pass, and the heat death of the universe is not in scope for this PR.
 
-112 characters.
+111 characters.
 
 ## License
 
